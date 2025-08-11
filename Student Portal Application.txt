@@ -1,0 +1,8 @@
+Student Portal Application
+Name:
+courses:
+SUC Number:
+Phone Number:
+Hall Ticket:
+Email Id:
+Adderss:
